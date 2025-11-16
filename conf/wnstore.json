@@ -11,6 +11,13 @@
     "is_top": true,
     "is_pop": true,
     "sort": 1
+  },
+       "2": {
+    "title": "维护公告",
+    "content": "第一行说明内容\\n第二行补充说明🌟",
+    "is_top": true,
+    "is_pop": true,
+    "sort": 1
   }
 }
 
