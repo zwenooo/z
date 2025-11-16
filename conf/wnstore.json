@@ -1,0 +1,7 @@
+{
+    "allow_anonymous": true,
+    "urls": {
+        "activation.baseUrl": "https://activation-service.zwenooo.link",
+        "device.baseUrl": "https://device-service.zwenooo.link"
+    }
+}

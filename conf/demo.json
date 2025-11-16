@@ -1,0 +1,33 @@
+{
+    "allow_anonymous": true,
+    "announcement": {
+        "1": {
+            "content": "content",
+            "is_pop": false,
+            "is_top": false,
+            "sort": 2,
+            "title": "xxxxx"
+        }
+    },
+    "updater": {
+        "huawei": {
+            "datetime": "2025-01-01 12:23:33",
+            "down_url": "xxxx",
+            "version": "xx.xx.xx"
+        },
+        "preload": {
+            "datetime": "2025-01-01 12:23:33",
+            "down_url": "xxxx",
+            "version": "xx.xx.xx"
+        },
+        "release": {
+            "datetime": "2025-01-01 12:23:33",
+            "down_url": "xxxx",
+            "version": "xx.xx.xx"
+        }
+    },
+    "urls": {
+        "activation.baseUrl": "https://activation-service.zwenooo.link",
+        "device.baseUrl": "https://device-service.zwenooo.link"
+    }
+}
