@@ -3,5 +3,15 @@
     "urls": {
         "activation.baseUrl": "https://activation-service.zwenooo.link",
         "device.baseUrl": "https://device-service.zwenooo.link"
-    }
+    },
+  "announcement": {
+  "1": {
+    "title": "维护公告",
+    "content": "第一行说明内容\\n第二行补充说明",
+    "is_top": true,
+    "is_pop": true,
+    "sort": 1
+  }
+}
+
 }
